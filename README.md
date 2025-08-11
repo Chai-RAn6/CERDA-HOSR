@@ -21,7 +21,6 @@ CERDA-HOSR is a novel computational method that leverages higher-order graph att
 ### code
   * eval.py: The startup code of the program
   * training.py: Train the model
-  * .py: Structure of the model
   * negative-cerna.py: High-order negative sampling process
  
 ## Usage
