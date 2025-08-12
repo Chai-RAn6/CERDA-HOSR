@@ -2,12 +2,13 @@
 CERDA-HOSR is a novel computational method that leverages higher-order graph attention networks (GATs) and graph convolutional networks (GCNs) to predict ceRNA-disease associations.
 
 ## Requirements
-  * python==3.11
+  * python==3.8
   * networkx
   * numpy
   * scikit-learn
   * pytorch
   * tqdm
+
 
 ## File
 ### data
