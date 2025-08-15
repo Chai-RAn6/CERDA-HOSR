@@ -3,14 +3,16 @@ CERDA-HOSR is a novel computational method that leverages higher-order graph att
 
 ## Requirements
   * python==3.8
-  * networkx
-  * numpy
-  * scikit-learn
-  * pytorch
-  * tqdm
+  * networkx==3.0
+  * numpy==1.24.1
+  * scikit-learn==1.3.0
+  * tqdm==4.65.0
+  * matplotlib==3.7.1
+  * pandas==2.0.3
+  * torch==2.0.0+cu118 torchaudio==2.0.1+cu118 torchvision==0.15.1+cu118
 
 
-## File
+## Files
 ### data
   The data files needed to run the model, which contain HMDDv2.0 and HMDDv3.2.
   * disease semantic similarity matrix 1.txt and disease semantic similarity matrix 2.txt: Two kinds of disease semantic similarity
