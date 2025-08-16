@@ -18,10 +18,11 @@
   * disease semantic similarity matrix 1.txt and disease semantic similarity matrix 2.txt: Two kinds of disease semantic similarity.
   * miRNA functional similarity matrix.txt: miRNA functional similarity.
   * known disease-miRNA association number.txt: Validated miRNA-disease associations.
-  * disease number.txt: Disease id and name.
-  * miRNA number.txt: MiRNA id and name.
+  * disease number.txt: Disease ids and names.
+  * miRNA number.txt: miRNA ids and names.
 
 ### Code
+  * HOGAT.py: Example of Higher-Order attention process
   * training.py: Train the model
   * negative-cerna.py: High-order negative sampling process
   * main.py: running the complete training and evaluation pipeline
