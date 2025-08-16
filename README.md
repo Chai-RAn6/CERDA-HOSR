@@ -14,6 +14,7 @@
 ## Files
 ### Data
    data.xlsx: Dataset1 comprises 218 lncRNAs, 605 miRNAs, 1,051 mRNAs, and 314 human diseases, encompassing a total of 2,115 ceRNA network–disease regulatory associations. The dataset is publicly available and can be accessed through the LncACTdb database at http://bio-bigdata.hrbmu.edu.cn/LncACTdb.
+   
   The data files needed to run the model, which contain CircR2Disease v1.0, CircR2Disease v2.0, HMDD v2.0, HMDD v3.0 and HMDD v4.0.
   * disease semantic similarity matrix 1.txt and disease semantic similarity matrix 2.txt: Two kinds of disease semantic similarity.
   * miRNA functional similarity matrix.txt: miRNA functional similarity.
