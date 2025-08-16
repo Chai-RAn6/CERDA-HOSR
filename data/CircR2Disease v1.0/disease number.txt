@@ -1,0 +1,88 @@
+1	Acne
+2	Active pulmonary tuberculosis
+3	Acute ischemic stroke
+4	Acute myeloid leukemia
+5	Alzheimer's disease
+6	Atherosclerosis
+7	Atherosclerotic vascular disease
+8	Basal cell carcinoma
+9	Bladder cancer
+10	Bladder urothelial carcinoma
+11	Breast cancer
+12	Cardiovascular disease
+13	Carotid disease and ischemic stroke
+14	Cervical cancer
+15	Cervical carcinoma
+16	Cholangiocarcinoma
+17	Clear cell renal cell carcinoma
+18	Colon cancer
+19	Colorectal cancer
+20	Coronary artery disease
+21	Cutaneous squamous cell carcinoma
+22	Diabetes mellitus
+23	Diabetes retinopathy
+24	Diabetic retinopathy
+25	Dilated cardiomyopathy
+26	Ebola virus disease
+27	Endometrial cancer
+28	Esophageal cancer
+29	Esophageal squamous cell carcinoma
+30	Essential hypertension
+31	Facet joint osteoarthritis
+32	Gastric cancer
+33	Gestational diabetes mellitus
+34	Glioblastoma
+35	Glioblastoma multiforme
+36	Glioma
+37	Heart disease
+38	Hepatic steatosis
+39	Hepatoblastoma
+40	Hepatocellular carcinoma
+41	Hirschsprung disease
+42	Hypertension
+43	Hypopharyngeal squamous cell carcinoma
+44	Immunosenescence
+45	Infantile hemangioma
+46	Intervertebral disc degeneration
+47	Intracranial aneurysms
+48	Ischaemic heart disease
+49	Kidney clear cell carcinoma
+50	Laryngeal squamous cell cancer tissues
+51	Leukoaraiosis
+52	Liver cancer
+53	Lung adenocarcinoma
+54	Lung cancer
+55	Lupus nephritis
+56	Major depressive disorder
+57	Moyamoya disease
+58	Multiple sclerosis
+59	Multiple system atrophy
+60	Myocardial infarction
+61	Myocardial senescence
+62	Nervous inflammatory diseases or immune disorders
+63	Non-small cell lung cancer
+64	Oral squamous cell carcinoma
+65	Oral squamous cell carcinomas
+66	Osteoarthritis
+67	Osteosarcoma
+68	Ovarian endometriosis
+69	Pancreatic cancer
+70	Pancreatic ductal adenocarcinoma
+71	Papillary thyroid carcinoma
+72	Pre-eclampsia
+73	Primary biliary cholangitis
+74	Primary great saphenous vein varicosities
+75	Primary hepatic carcinoma
+76	Prostate adenocarcinoma
+77	Prostate cancer
+78	Pulmonary tuberculosis
+79	Radiation-induced liver fibrosis
+80	Repeated implantation failure
+81	Rheumatoid arthritis
+82	Silicosis
+83	Systemic lupus erythematosus
+84	T2DM with depression
+85	Thoracic aortic dissection
+86	Triple negative breast cancer
+87	Tuberculosis
+88	Type 2 diabetes mellitus

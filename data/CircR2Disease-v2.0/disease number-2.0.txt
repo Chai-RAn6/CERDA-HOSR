@@ -1,0 +1,313 @@
+1	Abdominal aortic aneurysm
+2	Acne
+3	Acute Stanford type A aortic dissection
+4	Acute ischemic stroke
+5	Acute kidney injury
+6	Acute lung injury
+7	Acute lymphoblastic leukemia
+8	Acute myeloid leukemia
+9	Acute myocardial infarction
+10	Acute pancreatitis
+11	Acute promyelocytic leukemia
+12	Acute respiratory distress syndrome
+13	Adrenocortical carcinoma
+14	Age-related cataract
+15	Age-related macular degeneration
+16	Alcoholic hepatitis
+17	Alcoholic liver disease
+18	Allergic rhinitis
+19	Alzheimer's disease
+20	Ameloblastoma
+21	Amyotrophic lateral sclerosis
+22	Anal squamous cell carcinoma
+23	Angiogenesis
+24	Angiosarcoma
+25	Anorectal malformation
+26	Aortic valve calcification
+27	Asthma
+28	Atherosclerosis
+29	Atrial fibrillation
+30	Autism spectrum disorder
+31	Avian leukosis virus
+32	Axial spondyloarthritis
+33	Basal cell carcinoma
+34	Bedsore
+35	Bipolar disorder
+36	Bladder cancer
+37	Bladder carcinoma
+38	Bladder urothelial carcinoma
+39	Bone cancer
+40	Breast Carcinoma
+41	Breast cancer
+42	Breast carcinoma
+43	Bronchopulmonary dysplasia
+44	Cancer
+45	Carcinogenesis
+46	Cardiac fibroblasts
+47	Cardiac fibrosis
+48	Cardiac hypertrophy
+49	Cardiotoxicity
+50	Cardiovascular disease
+51	Cellular senescence
+52	Cerebral infarction
+53	Cerebral ischemia
+54	Cervical adenocarcinoma
+55	Cervical cancer
+56	Cervical carcinoma
+57	Cervical squamous cell carcinoma
+58	Cholangiocarcinoma
+59	Cholesteatoma
+60	Chondrocyte apoptosis
+61	Chronic hepatitis B
+62	Chronic lymphocytic leukemia
+63	Chronic myeloid leukemia
+64	Chronic obstructive pulmonary disease
+65	Clear cell renal cell carcinoma
+66	Cleft palate
+67	Colon cancer
+68	Colorectal cancer
+69	Congenital heart disease
+70	Conjunctival melanoma
+71	Corneal neovascularization
+72	Coronary artery disease
+73	Coronary heart disease
+74	Craniocerebral trauma
+75	Crohn disease
+76	Cryptococcal meningitis
+77	Cutaneous squamous cell carcinoma
+78	Demyelinating disease
+79	Dengue fever
+80	Depression
+81	Diabetes mellitus
+82	Diabetic cardiomyopathy
+83	Diabetic cataract
+84	Diabetic foot ulcer
+85	Diabetic kidney disease
+86	Diabetic nephropathy
+87	Diabetic neuropathy
+88	Diabetic retinopathy
+89	Diffuse large B-cell lymphoma
+90	Dilated cardiomyopathy
+91	Down's syndrome
+92	Doxorubicin-Induced cardiotoxicity 
+93	Duchenne muscular dystrophy
+94	Early allograft dysfunction
+95	Ebola virus disease
+96	Encephalitis
+97	Endometrial cancer
+98	Endometrial carcinoma
+99	Endometriosis
+100	Endplate cartilage degeneration
+101	Epilepsy
+102	Epithelial ovarian cancer
+103	Esophageal cancer
+104	Esophageal carcinoma
+105	Esophageal squamous cell carcinoma
+106	Essential hypertension
+107	Facet joint osteoarthritis
+108	Fetal growth restriction
+109	Focal segmental glomerulosclerosis
+110	Gallbladder cancer
+111	Gallbladder carcinoma
+112	Gastric adenocarcinoma
+113	Gastric cancer
+114	Gastric carcinoma
+115	Gastrointestinal stromal tumour
+116	Gestational diabetes mellitus
+117	Glaucoma
+118	Glioblastoma
+119	Glioma
+120	Haemangiomas
+121	Hashimoto's thyroiditis
+122	Head and neck squamous cell carcinoma
+123	Heart disease
+124	Heart failure
+125	Hepatic fibrosis
+126	Hepatic steatosis
+127	Hepatitis B
+128	Hepatoblastoma
+129	Hepatocellular carcinoma
+130	Hepatoma
+131	Hirschsprung disease
+132	Human aortic smooth muscle cell
+133	Hyperglycemia
+134	Hypertension
+135	Hypertrophic cardiomyopathy
+136	Hypertrophic scar
+137	Hypopharyngeal carcinoma
+138	Hypopharyngeal squamous cell carcinoma
+139	Hypoxia
+140	Hypoxia-induced cardiomyocyte injuries 
+141	Hypoxic-ischaemic encephalopathy
+142	Idiopathic membranous nephropathy
+143	Idiopathic pulmonary arterial hypertension
+144	Idiopathic pulmonary fibrosis
+145	Immunosenescence
+146	Infantile hemangioma
+147	Inflamed corneas
+148	Inflammation
+149	Inflammatory bowel disease
+150	Inflammatory response
+151	Influenza A virus infection
+152	Insulin resistance
+153	Intervertebral disc degeneration
+154	Intervertebral disc disease
+155	Intervertebral disk degeneration
+156	Intracerebral hemorrhage
+157	Intracranial aneurysm
+158	Intrahepatic cholangiocarcinoma
+159	Intrauterine adhesions
+160	Ischemia reperfusion injury
+161	Ischemia-reperfusion injury
+162	Ischemic brain after stroke
+163	Ischemic heart disease
+164	Ischemic stroke
+165	Kashin-Beck disease
+166	Kawasaki disease
+167	Keloid
+168	Kidney cancer
+169	Kidney injury
+170	Laryngeal cancer
+171	Laryngeal squamous cell cancer
+172	Laryngeal squamous cell carcinoma
+173	Laryngocarcinoma
+174	Lead-induced neuronal cell apoptosis
+175	Leukemia
+176	Leukoaraiosis
+177	Lipopolysaccharide
+178	Liver cancer
+179	Liver fibrosis
+180	Liver injury
+181	Lubrication disorder
+182	Lung adenocarcinoma
+183	Lung cancer
+184	Lung squamous cell carcinoma
+185	Lupus nephritis
+186	Major depressive disorder
+187	Malignant melanoma
+188	Mantle cell lymphoma
+189	Medulloblastoma
+190	Melanoma
+191	Moyamoya disease
+192	Mucoepidermoid carcinoma
+193	Multiple myeloma
+194	Multiple sclerosis
+195	Multiple system atrophy
+196	Myocardial fibrosis
+197	Myocardial infarction
+198	Myocardial injury
+199	Myocardial ischemia
+200	Myocarditis
+201	Myopia
+202	Nasopharyngeal cancer
+203	Nasopharyngeal carcinoma
+204	Neointimal hyperplasia
+205	Nervous inflammatory diseases or immune disorders
+206	Neuroblastoma
+207	Neuroinflammatory disorders
+208	Neuronal cell injury
+209	Neuronal injury
+210	Neuropathic pain
+211	Neurotoxicity and neuroinflammation
+212	Non-alcoholic fatty liver disease
+213	Non-obstructive azoospermia
+214	Non-small cell lung cancer
+215	Nonalcoholic steatohepatitis
+216	Nonfunctioning pituitary adenomas
+217	Obesity
+218	Oral cancer
+219	Oral mucosal melanoma
+220	Oral squamous cell carcinoma
+221	Osteoarthritis
+222	Osteogenesis
+223	Osteoporosis
+224	Osteosarcoma
+225	Ovarian aging
+226	Ovarian cancer
+227	Ovarian carcinoma
+228	Ovarian endometriosis
+229	Oxidative injury
+230	Oxygen-induced retinopathy
+231	Pancreatic cancer
+232	Pancreatic ductal adenocarcinoma
+233	Papillary thyroid carcinoma
+234	Papillary thyroid microcarcinoma
+235	Parathyroid adenoma
+236	Parathyroid carcinoma
+237	Parkinson's disease
+238	Periodontitis
+239	Peripheral nerve injury
+240	Periventricular white matter damage
+241	Photoaging
+242	Pituitary adenoma
+243	Pneumonia
+244	Polarized macrophages
+245	Polycystic ovary syndrome
+246	Postmenopausal osteoporosis
+247	Preeclampsia
+248	Premature ovarian insufficiency
+249	Pressure ulcer
+250	Primary Sjogren's Syndrome
+251	Primary biliary cirrhosis
+252	Primary great saphenous vein varicosities
+253	Primary hepatic carcinoma
+254	Proliferative diabetic retinopathy
+255	Proliferative vitreoretinopathy
+256	Prostate adenocarcinoma
+257	Prostate cancer
+258	Psoriasis
+259	Pterygium
+260	Pulmonary arterial hypertension
+261	Pulmonary fibrosis
+262	Pulmonary hypertension
+263	Pulmonary tuberculosis
+264	Radiation-induced liver disease
+265	Rectal cancer
+266	Renal carcinoma
+267	Renal cell carcinoma
+268	Repeated implantation failure
+269	Retinal neurodegeneration
+270	Retinal vascular dysfunction
+271	Retinoblastoma
+272	Rhabdomyosarcoma
+273	Rheumatic heart disease
+274	Rheumatoid arthritis
+275	Salivary adenoid cystic carcinoma
+276	Salpingitis
+277	Scar
+278	Schizophrenia
+279	Scoliosis
+280	Senescence
+281	Senile dementia
+282	Sepsis
+283	Sepsis-induced liver damage
+284	Silicosis
+285	Skin melanoma
+286	Small cell lung cancer
+287	Spinal cord injury
+288	Steroid-induced osteonecrosis of the femoral head
+289	Stomach adenocarcinoma
+290	Stroke
+291	Systemic lupus erythematosus
+292	T cell acute lymphoblastic leukemia
+293	T-cell lymphoblastic lymphoma
+294	T2DM with depression
+295	Temporal lobe epilepsy
+296	Temporomandibular joint osteoarthritis
+297	Thoracic aortic dissection
+298	Thyroid cancer
+299	Thyroid carcinoma
+300	Tongue squamous cell carcinoma
+301	Trauma-induced osteonecrosis of femoral head
+302	Traumatic brain injury
+303	Triple negative breast cancer
+304	Tuberculosis
+305	Type 1 diabetes mellitus
+306	Type 2 diabetes mellitus
+307	Ulcerative colitis
+308	Uterine leiomyoma
+309	Uveal melanoma
+310	Vascular disease
+311	Vascular endothelial dysfunction
+312	Vein graft
+313	Ventricular septal defect
